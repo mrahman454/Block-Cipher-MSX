@@ -1,5 +1,5 @@
 /******************************************************************************
-*
+* Copyright (c) 2025, NEC Corporation.
 *
 * THIS CODE IS FURNISHED TO YOU "AS IS" WITHOUT WARRANTY OF ANY KIND.
 *
